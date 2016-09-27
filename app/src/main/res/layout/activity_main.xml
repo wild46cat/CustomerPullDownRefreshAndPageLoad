@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.administrator.customerpulldownrefreshandpageload.MainActivity">
+    <com.example.administrator.customerpulldownrefreshandpageload.CustomerListViewPullDownRefreshAndPageLoad
+        android:layout_width="match_parent"
+        android:background="@android:color/holo_blue_dark"
+        android:id="@+id/customListView"
+        android:layout_height="match_parent"></com.example.administrator.customerpulldownrefreshandpageload.CustomerListViewPullDownRefreshAndPageLoad>
+</RelativeLayout>
